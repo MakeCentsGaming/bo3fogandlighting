@@ -1,0 +1,82 @@
+iwmap 4
+// entity 0
+{
+guid "{067C4F84-C1EE-11E8-8595-4CEDFB667DFC}"
+"classname" "worldspawn"
+"lightingquality" "1024"
+"samplescale" "1"
+"skyboxmodel" "skybox_default_day"
+"ssi" "default_day"
+"wsi" "default_day"
+}
+// entity 1
+// entity 2
+// entity 3
+// entity 4
+// entity 5
+// entity 6
+// entity 7
+// entity 8
+// entity 9
+// entity 10
+// entity 11
+// entity 12
+// entity 13
+// entity 14
+// entity 15
+// entity 16
+// entity 17
+// entity 18
+// entity 19
+// entity 20
+// entity 21
+// entity 22
+// entity 23
+// entity 24
+// entity 25
+// entity 26
+// entity 27
+// entity 28
+// entity 29
+// entity 30
+// entity 31
+// entity 32
+// entity 33
+// entity 34
+// entity 35
+// entity 36
+{
+guid "{020DC0D7-C1E8-11E8-8595-4CEDFB667DFC}"
+"classname" "volume_litfog"
+"BANK_2" "1"
+"fsi_2" "zm_factory_volumetric"
+"spawnflags" "63587"
+// brush 0
+{
+ guid "{020DC0D6-C1E8-11E8-8595-4CEDFB667DFC}"
+ ( 118.5 682 -2.5 ) ( 78.5 682 -2.5 ) ( 78.5 642 -2.5 ) litfog_volume 64 64 28.5 -155 0 0 lightmap_gray 16384 16384 28.5 -155 0 0
+ ( 105.5 642 282.5 ) ( 105.5 682 282.5 ) ( 145.5 682 282.5 ) litfog_volume 64 64 55.5 -155 0 0 lightmap_gray 16384 16384 55.5 -155 0 0
+ ( 423.5 314.5 270 ) ( 463.5 314.5 270 ) ( 463.5 314.5 -2.5 ) litfog_volume 64 64 373.5 41 0 0 lightmap_gray 16384 16384 373.5 41 0 0
+ ( 922.5 695.5 270 ) ( 922.5 735.5 270 ) ( 922.5 735.5 -2.5 ) litfog_volume 64 64 208.5 41 0 0 lightmap_gray 16384 16384 208.5 41 0 0
+ ( 446 497 270 ) ( 406 497 270 ) ( 406 497 -2.5 ) litfog_volume 64 64 356 41 0 0 lightmap_gray 16384 16384 356 41 0 0
+ ( 308 605.5 270 ) ( 308 565.5 270 ) ( 308 565.5 -2.5 ) litfog_volume 64 64 78.5 41 0 0 lightmap_gray 16384 16384 78.5 41 0 0
+}
+}
+// entity 37
+{
+guid "{020DC0DA-C1E8-11E8-8595-4CEDFB667DFC}"
+"classname" "volume_worldfog"
+"BANK_2" "1"
+"fsi_2" "zm_factory_volumetric"
+"spawnflags" "64259"
+// brush 0
+{
+ guid "{020DC0D9-C1E8-11E8-8595-4CEDFB667DFC}"
+ ( -592.5 131 -2.5 ) ( -783.5 131 -2.5 ) ( -783.5 -59.5 -2.5 ) fog 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -783.5 -59.5 217.5 ) ( -783.5 131 217.5 ) ( -592.5 131 217.5 ) fog 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -742.5 -929 217.5 ) ( -551.5 -929 217.5 ) ( -551.5 -929 -2.5 ) fog 64 64 41 0 0 0 lightmap_gray 16384 16384 41 0 0 0
+ ( 1407 -117 217.5 ) ( 1407 73.5 217.5 ) ( 1407 73.5 -2.5 ) fog 64 64 -57.5 0 0 0 lightmap_gray 16384 16384 -57.5 0 0 0
+ ( -545 948.5 217.5 ) ( -736 948.5 217.5 ) ( -736 948.5 -2.5 ) fog 64 64 47.5 0 0 0 lightmap_gray 16384 16384 47.5 0 0 0
+ ( -1754 161.5 217.5 ) ( -1754 -29 217.5 ) ( -1754 -29 -2.5 ) fog 64 64 30.5 0 0 0 lightmap_gray 16384 16384 30.5 0 0 0
+}
+}
